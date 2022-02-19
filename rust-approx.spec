@@ -5,8 +5,8 @@
 %global crate approx
 
 Name:           rust-%{crate}
-Version:        0.3.2
-Release:        5%{?dist}
+Version:        0.5.1
+Release:        1%{?dist}
 Summary:        Approximate floating point equality comparisons and assertions
 
 # Upstream license specification: Apache-2.0
